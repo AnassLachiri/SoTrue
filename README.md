@@ -1,5 +1,10 @@
 # sotrue
 
+## Firebase Configuration
+```
+Add your configuration for firebase in src/firebaseConfig.js
+```
+
 ## Project setup
 ```
 npm install
